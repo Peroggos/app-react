@@ -1,6 +1,6 @@
 import React from "react"
-import Header from "./components/componets_pousc/Header"
-import Goole from "./components/componets_pousc/goole"
+
+import Goole from "./componet/goole"
 
 
 class App extends React.Component {
@@ -9,7 +9,7 @@ class App extends React.Component {
     return(
    <div>
    
-<Header/>
+
 <Goole/>
  
   </div>)
