@@ -28,8 +28,12 @@ import data_test from './data.json';
                   
       return( 
          <div> 
-                <div> 
-                  
+              <header className="heaer" >
+                творчиские люди
+              </header>
+               <div> 
+                
+        
                  <input className="clec"
                
                  />
